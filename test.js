@@ -37,7 +37,7 @@ function isInMercurialRepository() {
     return false;
   }
 }
-
+//React-Js Movie-Booking-App
 // Watch unless on CI or explicitly running all tests
 if (
   !process.env.CI &&

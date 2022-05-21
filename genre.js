@@ -1,3 +1,4 @@
+//React-Js Movie-Booking-App
 let genres = [
     {
         id: 1,

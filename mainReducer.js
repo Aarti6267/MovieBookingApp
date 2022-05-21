@@ -8,3 +8,4 @@ const mainReducer = combineReducers({
 });
 
 export default mainReducer
+//React-Js Movie-Booking-App

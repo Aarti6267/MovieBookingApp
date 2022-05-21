@@ -110,6 +110,7 @@ checkBrowsers(paths.appPath, isInteractive)
       webpack,
     });
     // Load proxy config
+    //React-Js Movie-Booking-App
     const proxySetting = require(paths.appPackageJson).proxy;
     const proxyConfig = prepareProxy(
       proxySetting,

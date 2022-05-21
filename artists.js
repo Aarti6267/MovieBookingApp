@@ -1,3 +1,5 @@
+
+//React-Js Movie-Booking-App
 const artists = [
     {
         "id": "A1",
